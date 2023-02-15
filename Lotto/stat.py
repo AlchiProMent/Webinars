@@ -38,5 +38,7 @@ def go_calc_stat(file_name):
             print(st)
 
 
+
+
 if __name__ == '__main__':
     go_calc_stat(CSV_NAME)
